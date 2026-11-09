@@ -1,0 +1,10 @@
+check,result
+Orders occur after signup,PASS
+All customer references valid,PASS
+All product references valid,PASS
+Order amounts match item totals,PASS
+Exactly one order event per order,PASS
+Every funnel is a valid ordered prefix,PASS
+A/B conversion matches orders,PASS
+Cancelled orders have no charge,PASS
+Net sales equal charges minus refunds,PASS

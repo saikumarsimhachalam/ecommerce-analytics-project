@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+*.env
+password.txt
+config.py
+/notebooks/charts/
+/e_commerce-analytics-project.ipynb
